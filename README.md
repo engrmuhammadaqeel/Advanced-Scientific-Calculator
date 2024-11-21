@@ -13,11 +13,12 @@
 
 ## Live Demo
 
-Check out the live demo [here](file:///D:/Html/Index.html) (add the link to your live demo if hosted).
+Check out the live demo [file:///D:/Html/Index.html](#) (add the link to your live demo if hosted).
 
 ## Screenshots
 
-![Calculator Screenshot](AdvanceScentificCalculator.png)  
+![Advance Scentific Calculator png](https://github.com/user-attachments/assets/1c537f20-5f09-4408-8380-54f58d97d1ea)
+ 
 *A preview of the calculator interface.*
 
 ## Installation
@@ -81,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, feel free to open an issue or contact me at [your.email@example.com](muhammadaqeel11732@gmail.com).
+For questions or suggestions, feel free to open an issue or contact me at [muhammadaqeel11732@gmail.com](muhammadaqeel11732@gmail.com).
 
 ## Acknowledgements
 
